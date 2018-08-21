@@ -1,0 +1,9 @@
+E:\git\wxapp-mall\wxapp-mall.db\bin\Debug\wxapp-mall.db.dacpac
+E:\git\wxapp-mall\wxapp-mall.db\bin\Debug\wxapp_mall.db.dll
+E:\git\wxapp-mall\wxapp-mall.db\bin\Debug\wxapp_mall.db.pdb
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\Model.xml
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\refactor.xml
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\postdeploy.sql
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\predeploy.sql
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\wxapp_mall.db.dll
+E:\git\wxapp-mall\wxapp-mall.db\obj\Debug\wxapp_mall.db.pdb

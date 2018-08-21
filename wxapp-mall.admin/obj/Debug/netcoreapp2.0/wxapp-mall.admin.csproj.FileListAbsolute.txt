@@ -1,0 +1,10 @@
+E:\git\wxapp-mall\wxapp-mall.admin\bin\Debug\netcoreapp2.0\wxapp-mall.admin.deps.json
+E:\git\wxapp-mall\wxapp-mall.admin\bin\Debug\netcoreapp2.0\wxapp-mall.admin.runtimeconfig.json
+E:\git\wxapp-mall\wxapp-mall.admin\bin\Debug\netcoreapp2.0\wxapp-mall.admin.runtimeconfig.dev.json
+E:\git\wxapp-mall\wxapp-mall.admin\bin\Debug\netcoreapp2.0\wxapp-mall.admin.dll
+E:\git\wxapp-mall\wxapp-mall.admin\bin\Debug\netcoreapp2.0\wxapp-mall.admin.pdb
+E:\git\wxapp-mall\wxapp-mall.admin\obj\Debug\netcoreapp2.0\wxapp-mall.admin.csproj.CoreCompileInputs.cache
+E:\git\wxapp-mall\wxapp-mall.admin\obj\Debug\netcoreapp2.0\wxapp-mall.admin.AssemblyInfoInputs.cache
+E:\git\wxapp-mall\wxapp-mall.admin\obj\Debug\netcoreapp2.0\wxapp-mall.admin.AssemblyInfo.cs
+E:\git\wxapp-mall\wxapp-mall.admin\obj\Debug\netcoreapp2.0\wxapp-mall.admin.dll
+E:\git\wxapp-mall\wxapp-mall.admin\obj\Debug\netcoreapp2.0\wxapp-mall.admin.pdb
